@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 15vh;
+    background-color: red;
+}
+nav{
+    background-color: blue;
+    height: 6vw;
+}
+section{
+    background-color: pink;
+    height:73vh;
+    width: 70%;
+    float:left;
+}
+aside{
+    background-color: plum;
+    height:73vh;
+    width: 30%;
+    float:right;
+}
+footer{
+    background-color: greenyellow;
+    height: 6vh;
+    clear: both;
+}
